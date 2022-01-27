@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is the item with id of 1 from json db"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "This is the item with id of 2 from json db"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "This is the item with id of 3 fron json db"
+    },
+    {
+      "text": "this is an updated item",
+      "rating": 9,
+      "id": 4
+    }
+  ]
+}
